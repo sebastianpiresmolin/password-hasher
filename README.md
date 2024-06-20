@@ -1,7 +1,7 @@
 # password-hasher
 A very simple password hasher
 
-Requires:
+Dependencies:
 
 Node.js
 bcryptjs
